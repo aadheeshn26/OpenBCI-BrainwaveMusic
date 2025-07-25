@@ -4,7 +4,7 @@
 
 ## About The Project
 
-In this project, I created a program that allows me to convert my brainwaves into music. **In order to capture these brain signals, we use something known as a brain-computer interface.**
+Made this just in time for HacktheNorth apps --> In this project, I created a program that allows me to convert my brainwaves into music. **In order to capture these brain signals, we use something known as a brain-computer interface.**
 Whenever you’re doing anything, from talking, playing video games, to even reading this article, billions of neurons in our brain are constantly firing. **A brain-computer interface is what we use to capture these brain signals, analyze them and translate them into a specific output or command** (in our case, it’s music). Now, a lot of methods used for capturing our brain signals using BCIs are generally invasive/semi-invasive, meaning you’d have to undergo some kind of surgery to implant electrodes into your brain. However, that isn’t going to be practical for this project, and scaling any project/product. That’s why one of the most common ways of collecting this data is through a **non-invasive method known as electroencephalography (EEG).**
 
 **Electroencephalography (or EEG for short)** is what’s used to collect electrical activity from the brain, by placing electrodes (small metal discs with thin wires) onto the scalp/surface of your head. These electrodes are what are used to detect different changes in electrical charge due to activity from your brain waves.
