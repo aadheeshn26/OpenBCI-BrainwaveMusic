@@ -31,7 +31,7 @@ If you want to test this project out for yourself, make sure you first install t
 After that, all you have to do is cloe the repo!
 
 ```sh
-git clone https://github.com/BagavanMM/BrainwaveMusic-OpenBCI.git
+git clone https://github.com/aadheeshn26/OpenBCI-BrainwaveMusic.git
 ```
 
 <!-- USAGE EXAMPLES -->
